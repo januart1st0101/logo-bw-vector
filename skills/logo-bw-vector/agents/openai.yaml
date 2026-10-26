@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logo修復與轉黑白向量檔"
+  short_description: "先放大修復模糊 Logo，核對文字與原字形，再轉白底黑色並輸出真正 SVG 向量檔"
+  default_prompt: "請使用 $logo-bw-vector，將這張圖片先放大修復，再製作白底黑色 PNG 和 SVG，保留原有字形並核對模糊文字。"
